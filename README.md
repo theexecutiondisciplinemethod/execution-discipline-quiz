@@ -1,5 +1,3 @@
-# execution-discipline-quiz
-The execution discipline quiz by The Execution Discipline Method™
 <!doctype html>
 <html lang="en">
 <head>
